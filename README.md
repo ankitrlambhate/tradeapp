@@ -1,10 +1,10 @@
 This is the README documentation for TradeApp
 
 Pre-requisites:
-  JDK 21
+  JDK 21,
   Eclipse IDE (to import the backend code)  
-  Visual Studio code 
-  ReactJs
+  Visual Studio code, 
+  ReactJs,
   MySQL (with username = root, password = root and database name = db_trade)
 
 This Repository consists of two branches:
